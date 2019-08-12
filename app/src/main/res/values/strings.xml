@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Frases para Status</string>
+    <string name="message_texo_copiado_sucesso">Texto copiado!</string>
+    <string name="action_ok">OK</string>
+</resources>
