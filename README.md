@@ -1,4 +1,4 @@
-#Esse é o app Frasesdodia, desenvolvido para fins didáticos.
+#Esse é o app Frases para Status, desenvolvido para fins didáticos.
 
 #Linguagem JAVA.
 
